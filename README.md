@@ -12,10 +12,27 @@ This repository contains a Power BI Dashboard designed for **Price Optimization 
 
 ## 📁 Files Included
 
-- `Price_Optimization_Dashboard.pbix`: Power BI dashboard file only
+## 📊 Dashboards Included
 
-## 📂 Dataset
+### 1. Retail Price Optimization & Forecasting
 
-1.Day_Online_sales.csv
-2.Order Dataset.csv
-3.RFM.csv
+- Visualizes **price elasticity**, **sales trends**, and **profitability**.
+- Shows **demand forecasting accuracy** and **impact of price optimization** (control vs. treatment group).
+- Tracks **weekly execution time** of the forecasting & optimization models.
+- Business Use Case: **Maximize revenue and profit using data-driven pricing strategies.**
+
+### 2. Nike Website User Insights
+
+- Analysis of **user behavior on the Nike website**:
+  - Traffic trends, purchase behavior by platform
+  - Visitor groups (new vs. returning), gender breakdown
+  - Clicked banners, added to basket, and time spent on site
+- Business Use Case: **Understand online customer behavior to improve marketing ROI and user experience.**
+
+### 3. Nike Global Manufacturing Overview
+
+- Presents data on Nike's **manufacturing network**:
+  - Countries with most factories and workers
+  - Breakdown of product types (apparel, footwear, equipment)
+  - Associated brands (Nike, Converse)
+- Business Use Case: **Assess Nike’s supply chain and workforce distribution.**
